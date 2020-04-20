@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="mecabDemo.mecab:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mecabDemo_mecab_jar</output-path>
+    <root id="root">
+      <element id="archive" name="mecabDemo.mecab.jar">
+        <element id="module-output" name="mecabDemo.mecab" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/lib/MeCab.jar" />
+      <element id="library" level="module" name="Ice" module-name="mecabDemo.mecab" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: MeCab.jar Ice.jar
+Main-Class: com.zbatch.mecab.ice.JapineseMecabPrxServer
+
